@@ -1,0 +1,27 @@
+* {
+    align-items: center;
+}
+body {
+    background-color: black;
+    text-align: center;
+}
+h1 {
+    font-size: 20px;
+    color: #ffffff;
+}
+h2 {
+    font-size: 60px;
+    color: #ffffff;
+}
+select {
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    cursor: pointer;
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: rgb(49, 44, 44);
+}
